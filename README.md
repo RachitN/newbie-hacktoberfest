@@ -35,6 +35,7 @@ an example:
 
 *Contributors :*
 ---
+ - [RachitN](https://github.com/RachitN)
  - [sreetamdas](https://github.com/sreetamdas)
  - [bradpeck](https://github.com/bradpeck)
  - [JamesSingleton](https://github.com/JamesSingleton)
